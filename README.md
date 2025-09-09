@@ -88,7 +88,7 @@ Strings de entrada e palíndromos identificados (mínimo 3 caracteres):
 
 ## ▶️ Como executar
 
-Clone este repositório ou copie o código em um arquivo chamado `palindromic_finder.py`:
+Clone este repositório ou copie o código em um arquivo chamado `palindromicFinder.py`:
 
 ```bash
 python palindromic_finder.py
@@ -103,3 +103,4 @@ Edite a variável `string` no código para testar diferentes frases.
 * [Palíndromos (Wikipedia)](https://pt.wikipedia.org/wiki/Pal%C3%ADndromo)
 
 * [Documentação oficial Python](https://docs.python.org/3/)
+
