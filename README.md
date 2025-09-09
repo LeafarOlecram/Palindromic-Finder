@@ -1,11 +1,10 @@
 # Palindromic Finder 
 `README.md`:
-````markdown
+
 Este projeto é um exemplo em **Python** para encontrar todos os palíndromos em uma string **sem espaços** e identificar o maior palíndromo encontrado.  
 O algoritmo atual tem complexidade **O(n²)**, suficiente para frases curtas e médias.
 
----
-
+````markdown
 ## 🚀 Como funciona
 - Percorre a string analisando todas as substrings possíveis.
 - Verifica se a substring é igual à sua versão invertida (`[::-1]`).
@@ -102,4 +101,5 @@ Edite a variável `string` no código para testar diferentes frases.
 ## 📘 Referências
 
 * [Palíndromos (Wikipedia)](https://pt.wikipedia.org/wiki/Pal%C3%ADndromo)
+
 * [Documentação oficial Python](https://docs.python.org/3/)
